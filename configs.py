@@ -25,9 +25,9 @@ You Can Use Me To Merge Multiple Videos in One with the Given Video Formats.
 
 Check /about to Know More About Me.
 
-Made With ❤ By @TheTeleRoid.
+Made With ❤ By @J_shree_ram.
 """
-    CAPTION = "Video Merged By @{}\n\nMade With ❤ By @TheTeleRoid"
+    CAPTION = "Video Merged By @{}\n\nMade With ❤ By @J_shree_ram"
     PROGRESS = """
 ➠ Percentage : {0}%
 
