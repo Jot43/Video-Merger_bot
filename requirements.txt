@@ -7,5 +7,5 @@ motor
 dnspython
 aiofiles
 psutil
-pyromod
+pyromod==1.5
 humanfriendly
