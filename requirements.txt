@@ -9,4 +9,4 @@ aiofiles
 psutil
 pyromod==1.5
 humanfriendly
-ffmpeg
+apt install ffmpeg
