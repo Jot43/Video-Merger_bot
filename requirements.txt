@@ -9,3 +9,4 @@ pyromod==1.5
 python-dotenv
 requests
 TgCrypto
+aiohttp
