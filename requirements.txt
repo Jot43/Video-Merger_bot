@@ -1,12 +1,11 @@
-pyrogram==1.4.16
-TgCrypto
+dnspython
+ffmpeg-python
 hachoir
 Pillow
-aiohttp
-motor
-dnspython
-aiofiles
 psutil
+pymongo
+Pyrogram
 pyromod==1.5
-humanfriendly
-apt install ffmpeg
+python-dotenv
+requests
+TgCrypto
